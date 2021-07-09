@@ -4,5 +4,5 @@ Implementation of bluetooth service in flutter using native kotlin code via meth
 - No Third Party library used
 - Implemented using Method Channels in Flutter
 - Used Flutter Bloc
-## Demoo video -
-![Here](https://drive.google.com/file/d/1aQdviKSbteBTSGh3UWXWhK4IOTRhvELK/view?usp=sharing)
+## Demo video -
+[Here](https://drive.google.com/file/d/1aQdviKSbteBTSGh3UWXWhK4IOTRhvELK/view?usp=sharing)
